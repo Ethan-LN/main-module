@@ -1,0 +1,3 @@
+[submodule "front-end-submodule"]
+	path = front-end-submodule
+	url = https://github.com/Ethan-LN/front-end-submodule
